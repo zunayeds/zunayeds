@@ -2,7 +2,7 @@
 
 - 🏢 I’m currently working at **[Mpower Technology Solutions Sdn. Bhd.](http://mpowerts.com/)**
 
-- 🌱 I’m currently learning **Competitive Programming, MongoDB, Express.JS, React**
+- 🌱 I’m currently learning **Generative AI integration, RAG**
 
 - 💬 Ping me about **.NET, Angular, SQL Server**
 
